@@ -1,0 +1,43 @@
+
+.dib{
+  background-color: rgb(193, 193, 233);
+  border-color: black;
+  margin-top: 100px;
+  padding-bottom: 10px;
+  border-radius: 7px;
+}
+.d{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.next{
+    margin-top: 20px;
+    padding: 10px;
+}
+.pri{
+    display: flex;
+    justify-content: space-around;
+}
+.seg{
+    display: flex;
+    justify-content: space-around;
+}
+.h{
+    display: flex;
+    justify-content: center;
+}
+.btns{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    padding: 10px 20px 10px 20px;
+    border-radius: 0;
+    border: none;
+}
+.btn:hover{
+    background-color: yellow;
+}
